@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866081938176",
+    "project_id": "order-management-system-1134f",
+    "storage_bucket": "order-management-system-1134f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866081938176:android:fd42e8606e51d507ebb1e5",
+        "android_client_info": {
+          "package_name": "com.gadge.order_managment_system.order_managment_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUDQE755cF-ourju4v4eaioFMB_b_CU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
